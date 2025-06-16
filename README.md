@@ -71,8 +71,8 @@ An interactive gaming platform built with React featuring:
 
 - [LinkedIn](https://www.linkedin.com/in/ninad-patil-35a0661b0/)
 - [GitHub](https://github.com/Ninad-Patil)
-- [Portfolio]([https://your-portfolio-link.com](https://superlative-pika-eabb6f.netlify.app/))
-- Email: ninad.patil198@gmail.com
+- [Portfolio](https://superlative-pika-eabb6f.netlify.app/)
+
 
 ---
 
