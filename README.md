@@ -2,7 +2,6 @@
 
 🎯 **Frontend Engineer** | 💻 React.js Specialist | 🎨 UI/UX Enthusiast
 
-📧 ninad.patil198@gmail.com • 📞 +91 7977564766  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ninad-patil-35a0661b0/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Ninad-Patil) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome)](https://superlative-pika-eabb6f.netlify.app/)
@@ -17,27 +16,17 @@ I enjoy working closely with design teams and back-end engineers, thriving in co
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 **Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 **Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 **Testing:**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
+
 
 ---
 
