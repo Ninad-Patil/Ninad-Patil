@@ -87,7 +87,6 @@ An interactive gaming platform built with React featuring:
 
 ---
 
-![Ninad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ninad-Patil&show_icons=true&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninad-Patil&layout=compact&theme=github_dark)
 
 
