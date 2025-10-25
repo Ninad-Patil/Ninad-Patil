@@ -32,6 +32,13 @@ I enjoy working closely with design teams and back-end engineers, thriving in co
 
 ## 💼 Experience
 
+**SDE - 1 (UI) @Edme Insurance Brokers**
+*Mumbai | Sept 2025 - Present*
+-Owned and maintained a repository used for OAuth authentication across multiple EDME products, ensuring secure and seamless user access.
+-Designed and developed a repository for GST invoice generation and bill tracking for EDME, streamlining financial processes and improving accuracy.
+-Integrated Sentry for real-time error monitoring and debugging, enhancing application reliability and maintainability.
+-Implemented state management using Redux and React, ensuring scalable and efficient front-end architecture.
+
 **Freelance Frontend Engineer**  
 *Navi Mumbai | Feb 2024 – Present*  
 - Built & deployed responsive SPAs using React.js  
