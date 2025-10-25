@@ -40,7 +40,7 @@ I enjoy working closely with design teams and back-end engineers, thriving in co
 - Implemented state management using Redux and React, ensuring scalable and efficient front-end architecture.
 
 **Freelance Frontend Engineer**  
-*Navi Mumbai | Feb 2024 – Present*  
+*Navi Mumbai | Feb 2024 – Aug 2025*  
 - Built & deployed responsive SPAs using React.js  
 - Integrated RESTful APIs and added drag-and-drop, modals, and dynamic filters  
 - Reduced page load time by 20% by migrating static assets to CDN (AWS)
